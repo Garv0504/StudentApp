@@ -1,0 +1,17 @@
+@import "bootstrap/dist/css/bootstrap.min.css"; 
+
+*{
+    margin: 0;
+    padding: 0vw;
+    text-decoration: none;
+ }
+ body  {
+    background-color: #212121;
+    color: white;
+ }
+form {
+    width: 50%;
+}
+ul li {
+    list-style: none;
+}
